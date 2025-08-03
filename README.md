@@ -1,7 +1,9 @@
 # 🌤️ Weather App
 
 A simple weather app that fetches real-time weather data for any city using the OpenWeatherMap API.
+
 ---
+
 ## 🚀 Features
 
 - 🌡️ Displays temperature in Celsius
@@ -9,14 +11,18 @@ A simple weather app that fetches real-time weather data for any city using the 
 - 🌬️ Shows wind speed
 - ☁️ Dynamic weather icons based on the current condition
 - 🔎 City-based search
+
 ---
+
 ## 🔧 Technologies Used
 
 - HTML
 - CSS
 - JavaScript (Vanilla)
 - OpenWeatherMap API
+  
 ---
+
 ## 📦 How to Use
 
 1. Clone the repository:
@@ -27,6 +33,7 @@ A simple weather app that fetches real-time weather data for any city using the 
 2. Open index.html in any modern browser.
 
 3. Enter a city name to get the current weather data.
+   
 ---
 
 ## 🔑 API Key
@@ -36,9 +43,11 @@ You can replace the default API key in script.js:
 ```
 const apikey = "YOUR_API_KEY";
 ```
+
 ---
 
 ## 📁 Project Structure
+```
 Weather-app/
 ├── img/
 │   ├── clouds.png
@@ -51,18 +60,13 @@ Weather-app/
 ├── style.css
 ├── script.js
 └── README.md
+```
+
 ---
 
 ## ✨ Screenshots
 <img width="520" height="197" alt="image" src="https://github.com/user-attachments/assets/2ed5d6dc-5e8a-4541-8dc6-ae733d76489d" />
 <img width="403" height="557" alt="image" src="https://github.com/user-attachments/assets/cdcfef83-2f6e-4e41-8552-3f28aefd3cef" />
-
-
----
-## 📄 License
-This project is licensed under the MIT License.
-
-Made with ❤️ by Minsu Agrahari
 
 ---
 ### 📌 How to add this to your repo:
@@ -77,3 +81,10 @@ Made with ❤️ by Minsu Agrahari
 git add README.md
 git commit -m "Added README.md"
 git push
+```
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+Made with ❤️ by Minsu Agrahari
