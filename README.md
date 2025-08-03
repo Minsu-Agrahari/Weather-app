@@ -65,8 +65,16 @@ Weather-app/
 ---
 
 ## ✨ Screenshots
+
+### Invalid City Name 
+<img width="372" height="158" alt="image" src="https://github.com/user-attachments/assets/3a6a20ec-3885-432c-bb15-ece845af92ba" />
+
+### Valid City Name
 <img width="520" height="197" alt="image" src="https://github.com/user-attachments/assets/2ed5d6dc-5e8a-4541-8dc6-ae733d76489d" />
 <img width="403" height="557" alt="image" src="https://github.com/user-attachments/assets/cdcfef83-2f6e-4e41-8552-3f28aefd3cef" />
+
+
+
 
 ---
 ### 📌 How to add this to your repo:
